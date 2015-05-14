@@ -1,0 +1,1 @@
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\CordovaApp.Phone.jsproj;neutral

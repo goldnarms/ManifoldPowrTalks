@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package
+  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
+  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+  IgnorableNamespaces="uap mp">
+
+  <Identity
+    Name="aeaa1ef5-d2df-2027-5297-d17f3eb58f66"
+    Version="1.0.0.0"
+    Publisher="CN=user" />
+
+  <mp:PhoneIdentity PhoneProductId="aeaa1ef5-d2df-2027-5297-d17f3eb58f66" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+
+  <Properties>
+    <DisplayName>PowrTalks</DisplayName>
+    <PublisherDisplayName>user</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+
+  <Dependencies>
+    <TargetPlatform Name="Windows.Universal" MinVersion="10.0.10030.0" MaxVersionTested="10.0.10030.0" />
+  </Dependencies>
+
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+
+  <Applications>
+    <Application
+      Id="PowrTalks"
+      StartPage="http://powertalks.azurewebsites.net/">
+
+      <uap:VisualElements
+        DisplayName="PowrTalks"
+        Description="Power talks"
+        ForegroundText="light"
+        BackgroundColor="#464646"
+        Square150x150Logo="images\logo.png"
+        Square44x44Logo="images\smalllogo.png">
+
+        <uap:SplashScreen Image="images\splashscreen.png" />
+
+        <uap:InitialRotationPreference>
+          <uap:Rotation Preference="landscape" />
+        </uap:InitialRotationPreference>
+      </uap:VisualElements>
+      
+      <uap:ApplicationContentUriRules>
+        <uap:Rule Type="include" Match="http://powertalks.azurewebsites.net/" />
+      </uap:ApplicationContentUriRules>
+    </Application>
+  </Applications>
+
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+
+</Package>

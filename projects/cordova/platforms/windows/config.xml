@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.azurewebsites.powertalks" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="windows-target-version" value="8.0" />
+    <preference name="windows-phone-target-version" value="8.1" />
+    <icon height="70" src="/images/tiny.png" width="70" />
+    <icon height="150" src="/images/square.png" width="150" />
+    <icon height="150" src="/images/widelogo.310x150.png" width="310" />
+    <icon height="310" src="/images/large-win.png" width="310" />
+    <icon height="57" src="/images/apple-touch-icon-57x57-precomposed.png" width="57" />
+    <icon height="120" src="/images/apple-touch-icon-120x120-precomposed.png" width="120" />
+    <name>PowrTalks</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <preference name="Orientation" value="landscape" />
+    <preference name="Fullscreen" value="false" />
+    <access hap-rule="yes" origin="http://powertalks.azurewebsites.net/" />
+    <access hap-rule="yes" origin="*" />
+</widget>

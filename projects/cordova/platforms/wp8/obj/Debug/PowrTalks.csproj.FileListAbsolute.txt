@@ -1,0 +1,14 @@
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\Bin\Debug\Background.png
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\Bin\Debug\net.azurewebsites.powertalks.dll
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\Bin\Debug\net.azurewebsites.powertalks.pdb
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\obj\Debug\App.g.cs
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\obj\Debug\net.azurewebsites.powertalks.g.resources
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\obj\Debug\net.azurewebsites.powertalks.dll
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\obj\Debug\net.azurewebsites.powertalks.pdb
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\wp8\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.azurewebsites.powertalks" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <access origin="*" />
+    <feature name="NetworkStatus">
+        <param name="wp-package" value="NetworkStatus" />
+    </feature>
+    <feature name="File">
+        <param name="wp-package" value="File" />
+    </feature>
+    <feature name="Media">
+        <param name="wp-package" value="Media" />
+    </feature>
+    <name>PowrTalks</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="http://powertalks.azurewebsites.net/" />
+    <preference name="Orientation" value="landscape" />
+    <preference name="Fullscreen" value="false" />
+    <access hap-rule="yes" origin="http://powertalks.azurewebsites.net/" />
+    <access hap-rule="yes" origin="*" />
+    <feature name="Notification">
+        <param name="wp-package" value="Notification" />
+    </feature>
+</widget>

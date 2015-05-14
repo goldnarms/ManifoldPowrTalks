@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.azurewebsites.powertalks" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>PowrTalks</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="http://powertalks.azurewebsites.net/" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="Fullscreen" value="false" />
+    <platform name="android">
+        <icon density="hdpi" src="/images/apple-touch-icon-72x72-precomposed.png" />
+        <icon density="xxxhdpi" src="/images/nice-highres.png" />
+    </platform>
+    <platform name="ios">
+        <icon height="72" src="/images/apple-touch-icon-72x72-precomposed.png" width="72" />
+        <icon height="57" src="/images/apple-touch-icon-57x57-precomposed.png" width="57" />
+        <icon height="76" src="/images/apple-touch-icon-76x76-precomposed.png" width="76" />
+        <icon height="60" src="/images/apple-touch-icon-60x60-precomposed.png" width="60" />
+        <icon height="120" src="/images/apple-touch-icon-120x120-precomposed.png" width="120" />
+        <icon height="152" src="/images/apple-touch-icon-152x152-precomposed.png" width="152" />
+        <icon height="114" src="/images/apple-touch-icon-114x114-precomposed.png" width="114" />
+    </platform>
+    <platform name="windows">
+        <icon height="70" src="/images/tiny.png" width="70" />
+        <icon height="150" src="/images/square.png" width="150" />
+        <icon height="150" src="/images/widelogo.310x150.png" width="310" />
+        <icon height="310" src="/images/large-win.png" width="310" />
+        <icon height="57" src="/images/apple-touch-icon-57x57-precomposed.png" width="57" />
+        <icon height="120" src="/images/apple-touch-icon-120x120-precomposed.png" width="120" />
+    </platform>
+    <platform name="wp8" />
+    <access hap-rule="yes" origin="http://powertalks.azurewebsites.net/" />
+    <access hap-rule="yes" origin="*" />
+</widget>

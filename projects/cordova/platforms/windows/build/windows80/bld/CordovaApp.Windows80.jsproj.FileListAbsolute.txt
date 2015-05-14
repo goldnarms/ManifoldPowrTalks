@@ -1,0 +1,17 @@
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\debug\anycpu\resources.pri
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\debug\anycpu\AppxManifest.xml
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\debug\anycpu\CordovaApp.Windows80.build.appxrecipe
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\priconfig.xml
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\priconfig.xml.intermediate
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\layout.resfiles
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\layout.resfiles.intermediate
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\resources.resfiles
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\resources.resfiles.intermediate
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\pri.resfiles
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\pri.resfiles.intermediate
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\qualifiers.txt
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\qualifiers.txt.intermediate
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\MultipleQualifiersPerDimensionFound.txt
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\ProjectArchitectures.txt
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\package.map.txt
+C:\DevTemp\powerTalksProjects\projects\cordova\platforms\windows\build\windows80\bld\_pkginfo.txt

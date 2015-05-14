@@ -1,0 +1,9 @@
+{
+    "name": "PowrTalks",
+    "description": "Power talks",
+    "launch_path": "/",
+    "icons": {
+        "60": "/images/apple-touch-icon-60x60-precomposed.png",
+        "128": "/images/niceicon.png"
+    }
+}

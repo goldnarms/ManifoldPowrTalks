@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "package.appxmanifest": {
+                "parents": {
+                    "/Package/Capabilities": [
+                        {
+                            "xml": "<Capability Name=\"musicLibrary\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<DeviceCapability Name=\"microphone\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.manifoldjs.hostedwebapp": {
+            "PACKAGE_NAME": "PowrTalks"
+        },
+        "org.apache.cordova.media": {
+            "PACKAGE_NAME": "PowrTalks"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "PowrTalks"
+        }
+    },
+    "dependent_plugins": {
+        "org.apache.cordova.network-information": {
+            "PACKAGE_NAME": "PowrTalks"
+        },
+        "org.apache.cordova.file": {
+            "PACKAGE_NAME": "PowrTalks"
+        }
+    }
+}

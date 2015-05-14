@@ -1,0 +1,14 @@
+{
+    "com.manifoldjs.hostedwebapp": {
+        "source": {
+            "type": "local",
+            "path": "D:\\home\\site\\wwwroot\\node_modules\\manifoldjs\\node_modules\\ManifoldCordova"
+        }
+    },
+    "org.apache.cordova.network-information": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.network-information"
+        }
+    }
+}
